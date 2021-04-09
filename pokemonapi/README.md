@@ -1,5 +1,7 @@
 # Pokemon API
 
+Do you like Pokemon? I do! I like to see all Pokemon names on my browser!
+
 To start client - npm start
 
 and the browser will open

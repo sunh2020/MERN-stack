@@ -1,3 +1,13 @@
+# Pokemon API
+
+To start client - npm start
+
+and the browser will open
+
+once the browser opens, you will click "Fetch", then you will see 807 Pokemon names!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

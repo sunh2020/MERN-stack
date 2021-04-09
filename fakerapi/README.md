@@ -1,5 +1,17 @@
 # Faker API
 
+This is using Express, Nodemon and Postman.
+
+Using Express: npm install
+
+Add express on your server.js > const app = express();
+
+Open terminal > node server.js or just down load Nodemon globally > npm install -g nodemon
+
+Now you can use nodemon server.js to open terminal (start terminal)
+
+
+
 Do you want to create a fake person's name and address?
 
 Do you want to create a fake company name and address?
